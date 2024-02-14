@@ -1,0 +1,36 @@
+body {
+    font-family: "Montserrat";
+    background-color: antiquewhite;
+}
+
+h1 {
+    font-family: "Merriweather";
+}
+h2{text-shadow:4px 4px #B3AFAE;}
+
+.p1 {
+    margin: 20px 360px 20px 360px;
+    padding: 20px;
+}
+
+.topcon {
+    margin: 20px 20px 20px 20px;
+    text-align: center;
+}
+
+.midcon {
+    background-color: orange;
+    padding: 30px;
+    margin-left: 360px;
+    margin-right: 360px;
+}
+
+h2 {
+    text-align: center;
+    color: aliceblue;
+}
+.footer{
+    margin: 100px 100px 100px 100px;
+    text-align: center;
+    font-size: 0.75rem;
+}
